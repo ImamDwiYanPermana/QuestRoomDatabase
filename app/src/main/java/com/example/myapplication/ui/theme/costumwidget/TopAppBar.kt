@@ -1,7 +1,6 @@
 package com.example.myapplication.ui.theme.costumwidget
 
 import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.FlowRowScopeInstance.align
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
