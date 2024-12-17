@@ -1,3 +1,5 @@
 ![andro](https://github.com/user-attachments/assets/8beb0bba-b775-4bc1-8134-ae4cf96b7b1c)
 ![androinST](https://github.com/user-attachments/assets/02dacb89-bc45-4432-ab15-b0257626a72f)
 ![an](https://github.com/user-attachments/assets/053af85a-ba84-44b1-a8ee-2de307a6c7f2)
+![delete](https://github.com/user-attachments/assets/ff678391-8e79-4da3-9235-e6bd137e9966)
+![edit](https://github.com/user-attachments/assets/17f3809b-53a1-4396-af2b-43af3e9e8ee8)
